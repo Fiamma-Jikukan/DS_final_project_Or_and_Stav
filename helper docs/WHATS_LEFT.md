@@ -127,7 +127,7 @@ Required by instructions §5, and **Correction 9**.
 ### 6. Appendix
 
 Point to the four exported files and the oversized tables: `authority_gaps.xlsx` (all 243 ranked),
-`robust_authorities.xlsx` (the 21), `authority_clusters.xlsx`, `cleaned_dataset.xlsx`, the hyperparameter grids,
+`robust_authorities.xlsx` (the 20), `authority_clusters.xlsx`, `cleaned_dataset.xlsx`, the hyperparameter grids,
 the full correlation matrix, and the prompt log.
 
 ## 3. Presentation (40% of the grade)
@@ -158,7 +158,7 @@ Not started. Due within two weeks after 18/10/2026.
 - [ ] Re-read Results and Discussion against the printed output, so no quoted number has drifted
 - [ ] Decide and state the **data route**: ship the `.ipynb` with `datasets/` in one zip (simplest, allowed), or
       have the notebook download the files
-- [ ] Name the **21 robust authorities** rather than the 64 in the report. The cutoff-at-30 variation removes
+- [ ] Name the **20 robust authorities** rather than the 64 in the report. The cutoff-at-30 variation removes
       only 2 rows yet changes 8 of the 64, so the 64's membership is a snapshot
 - [ ] Figures legible at presentation size
 - [ ] Decide whether Step 10 (who sits in the tails) stays skipped. If it stays skipped, nothing to clean up
