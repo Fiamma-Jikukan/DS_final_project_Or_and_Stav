@@ -132,12 +132,18 @@ the full correlation matrix, and the prompt log.
 
 ## 3. Presentation (40% of the grade)
 
-Not started. Due within two weeks after 18/10/2026.
+**Done, 24/10/2026:** `presentation/Presentation_Or_and_Stav.pptx`, 13 slides (11 spoken, 2 backup),
+no speaker notes. `presentation/README.md` has the timing plan; `build_deck.py` and `make_figures.py`
+rebuild the deck and its figures.
 
-- ~8–10 slides: motivation, question, data/methods, 1–2 key figures, conclusions, limitations
-- The plan's §4 has a slide-by-slide outline; the headline figures are Fig 8, Fig 10, Fig 11, Fig 13
-- Rehearse to 10 minutes. **Both partners must be able to defend every choice** — this is graded mostly on
-  demonstrated understanding, and §Appendix A of the plan has the ten likely questions
+The four figures it uses were redrawn at slide size by `presentation/make_figures.py`, not lifted from
+the notebook, so the labels are legible on a projector. Fig 10 shows the scores panel only and Fig 11
+labels its two named groups on the lines.
+
+What is left is rehearsal, not production: run it to 10 minutes, check the figures from the back of the
+room, and open it once in PowerPoint before the slot. **Both partners must be able to defend every
+choice** — this is graded mostly on demonstrated understanding, and §Appendix A of the plan has the ten
+likely questions.
 
 ---
 
