@@ -669,10 +669,10 @@ def s10_conclusions(prs):
          "The documented gradient is there, strongest in English grade 8 "
          "(r = 0.75) and weakest in Arabic grade 5 (r = 0.10)."),
         ("Which test it is outweighs everything we know about the authority",
-         "Shuffling the four test-identity variables costs 0.609 of R²; shuffling "
-         "all sixteen socio-economic variables costs 0.374. So the answer to the "
-         "proposal's question is no, though socio-economic standing is still the "
-         "second of two large blocks."),
+         "We asked whether socio-economic standing outweighs grade and subject. It "
+         "does not: scrambling the variables that say which test a row is costs "
+         "0.609 of R², against 0.374 for every socio-economic variable at once. "
+         "Both blocks are large, so standing is the second of two, not a minor one."),
         ("Twenty authorities deviate robustly, and none ever flips",
          "Sixty-five of 238 deviate consistently under the pre-specified analysis, "
          "33 above and 32 below. Twenty survive all seven rebuilds, and across "
